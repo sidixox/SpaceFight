@@ -8,13 +8,6 @@ https://youtu.be/vDrWYe5jgcI
 
 
 Final demo run: This video shows my gameplay, and I believe it's the best I can achieve within the given timeframe. I attempted to change the fonts, but the assets wouldn't download without the package. Since my project is due tonight, I won't have time to tweak my code further. Perhaps after I receive my grade, I'll consider releasing a full level game. Thank you for your patience, and I'll see you when I have updates.
+https://www.youtube.com/watch?v=tXr6wkCZAqw
 
 
-
-
-
-
-YouTube videos I recommend: While these videos aren't comprehensive because you'll need to add the special features yourself, they offer helpful insights into the game's layout and design.
-https://www.youtube.com/watch?v=MU4psw3ccUI&t=139s&pp=ygUOc3BhY2UgaW52YWRlcnM%3D
-https://www.youtube.com/watch?v=Jbn8IRmSq8M&pp=ygUOc3BhY2UgaW52YWRlcnM%3D
-https://www.youtube.com/watch?v=U8gUnpeaMbQ&t=962s
